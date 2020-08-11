@@ -1,0 +1,1 @@
+# Manning_TypeScript_Quickly
